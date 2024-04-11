@@ -84,7 +84,7 @@ p {
 }
 
 .hashtags ul li {
-	border: 1px solid rgb(92, 255, 146)	;
+	border: 1px solid rg(255,92,92,1)	;
 	border-radius: 2px;
 	display: inline-block;
 	font-size: 12px;
